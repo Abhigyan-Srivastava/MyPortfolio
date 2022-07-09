@@ -1,0 +1,95 @@
+baseURL: 'https://arkalim.org'
+languageCode: en-us
+title: Abhigyan Srivastava
+theme: PaperMod
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: about
+    name: About
+    url: /about
+    weight: 20
+  - identifier: projects
+    name: Projects
+    url: /projects
+    weight: 30
+  - identifier: experience
+    name: Experience
+    url: /experience
+    weight: 40
+  - identifier: contact
+    name: Contact me
+    url: /contact
+    weight: 50
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Abhigyan Srivastava"
+    subtitle: <strong>Junior at SRMU<strong> <br> Student
+    imageUrl: "home/Profile.jpg"
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: "https://drive.google.com/file/d/15bupi_Ez5GhhNa2LIT7an1Qxg-0XKYH2/view"
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:srivastava.abhigyan@hotmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/abhigyan-srivastava-3292571b5/"
+    - name: "github"
+      url: "https://github.com/Abhigyan-Srivastava"
+    - name: "hackerrank"
+      url: "https://www.hackerrank.com/abhigyan_sri"
+    - name: "Twitter"
+      url: "https://twitter.com/Abhigyan2701"
+    - name: "Telegram"
+      url: "https://t.me/Abhi_7880"  
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
