@@ -4,7 +4,7 @@ description: "Image Resisizing using OpenCV"
 draft: false
 tags: ["Pyhton", "openCV"]
 showToc: false
-weight: 204
+weight: 197
 cover:
 --- 
 ### 🔗 [GitHub](https://github.com/Abhigyan-Srivastava/Reduce_Img_Size)
