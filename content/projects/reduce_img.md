@@ -2,7 +2,7 @@
 title: "Reduce Image Size"
 description: "Image Resisizing using OpenCV"
 draft: false
-tags: ["Pyhton", "openCV"]
+tags: ["Python", "openCV"]
 showToc: false
 weight: 197
 cover:

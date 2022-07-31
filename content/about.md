@@ -2,9 +2,9 @@
 title = "About"
 +++
 
-Hello, I'm Abhigyan
+Hello, I'm Abhigyan Srivastava
 
-Currently, I am pursuing my 4th-year B.Tech from Shri Ramswaroop Memorial University, Lucknow, Barabanki, Uttar Pradesh with a CGPA of 8.21.
+Currently, I am pursuing my 4th-year B.Tech from Shri Ramswaroop Memorial University, Lucknow, Barabanki, Uttar Pradesh with a CGPA of 7.93.
 
 I like to work on technologies like Python, C++, SQL, MongoDB, HTML5, CSS, JavaScript. 
 
