@@ -7,8 +7,8 @@ showToc: false
 weight: 195
 cover:
 --- 
-### 🔗 [View](https://github.com/Abhigyan-Srivastava/Product_Based_Company_Basic_Website_Udemy_Project)
-### 🔗 [GitHub](https://abhigyan-srivastava.github.io/Product_Based_Company_Basic_Website_Udemy_Project/)
+### 🔗 [View](https://abhigyan-srivastava.github.io/Product_Based_Company_Basic_Website_Udemy_Project/)
+### 🔗 [GitHub](https://github.com/Abhigyan-Srivastava/Product_Based_Company_Basic_Website_Udemy_Project)
 
 ## Description
 
