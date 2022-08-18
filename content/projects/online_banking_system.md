@@ -18,5 +18,5 @@ A Online Banking Website created using **HTML**, **CSS** and **JavaScript** that
 
 ![App Screenshot](https://raw.githubusercontent.com/Abhigyan-Srivastava/Online_Banking_System/master/Screenshots/Accounts.png)
 
-### 🔗 [View](https://github.com/Abhigyan-Srivastava/Online_Banking_System)
-### 🔗 [GitHub](https://abhigyan-srivastava.github.io/Online_Banking_System/)
+### 🔗 [Demo](https://abhigyan-srivastava.github.io/Online_Banking_System/)
+### 🔗 [GitHub](https://github.com/Abhigyan-Srivastava/Online_Banking_System)
