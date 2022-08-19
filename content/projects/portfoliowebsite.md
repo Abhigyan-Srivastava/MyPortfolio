@@ -12,7 +12,7 @@ cover:
 
 A Portfolio Website built using **HTML**, **CSS** and **JavaScript**. It includes multi page layout.
 
-## Screenshot
+## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/Abhigyan-Srivastava/PortfolioWebsite/main/Screenshots/1.png)
 
