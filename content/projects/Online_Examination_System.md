@@ -4,7 +4,7 @@ description: "A website through which students can appear for their exams from t
 draft: false
 tags: ["HTML", "CSS","JavaScript","PHP"]
 showToc: false
-weight: 194
+weight: 192
 cover:
 --- 
 

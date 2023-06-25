@@ -4,7 +4,7 @@ description: "A website that aims to explore the creative potential of AI and pr
 draft: false
 tags: ["HTML", "CSS","JavaScript","React","Node.JS","MongoDB","OpenAI","Cloudinary","Express.JS"]
 showToc: false
-weight: 195
+weight: 191
 cover:
 --- 
 
