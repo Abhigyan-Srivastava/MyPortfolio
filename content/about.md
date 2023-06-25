@@ -4,18 +4,15 @@ title = "About"
 
 Hello, I'm Abhigyan Srivastava
 
-Currently, I am pursuing my 4th-year B.Tech from Shri Ramswaroop Memorial University, Lucknow, Barabanki, Uttar Pradesh with a CGPA of 7.93.
+I am a passionate and dedicated individual who recently graduated with a Bachelor of Technology degree in Computer Science and Engineering. Throughout my academic journey, I have developed a strong foundation in programming, algorithms, and various technical skills essential in the field.
 
-I like to work on technologies like Python, C++, SQL, MongoDB, HTML5, CSS, JavaScript. 
+During my studies, I actively participated in projects and coursework that allowed me to apply my knowledge to real-world scenarios. I have gained experience in developing software applications, analyzing complex data sets, and designing efficient algorithms.
 
-I enjoy problem-solving and coding. Always strive to bring 100% to the work I do.
+I have a keen interest in emerging technologies such as artificial intelligence and search engine optimization, and I am excited to explore their applications in solving real-world problems. I am also adept at collaborating with multidisciplinary teams and effectively communicating technical concepts to both technical and non-technical audiences.
 
-I have cleared my High School and Intermediate from Central Academy, Lucknow, with an acceptable GPA of 7.6 in High School and 83% in Intermediate.
+As a recent graduate, I am eager to embark on a fulfilling career in the field of computer science and engineering. I am excited about the potential to contribute to innovative projects, solve complex problems, and make a positive impact in the tech industry.
 
-I speak Hindi and English.
+I am a motivated learner, always seeking new challenges and opportunities for growth. With a strong academic foundation and a passion for technology, I am confident in my ability to thrive in a dynamic and ever-evolving industry.
 
-My primary language is C++ but I can also code Python and JavaScript.
+Overall, I am a dedicated, adaptable, and enthusiastic computer science and engineering graduate ready to embark on a successful professional journey.
 
-I consider Web Application Development as my Intrests and can code Application in Angular and React JS.
-
-I am comfortable with both Windows and macOS.
