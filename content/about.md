@@ -15,4 +15,3 @@ As a recent graduate, I am eager to embark on a fulfilling career in the field o
 I am a motivated learner, always seeking new challenges and opportunities for growth. With a strong academic foundation and a passion for technology, I am confident in my ability to thrive in a dynamic and ever-evolving industry.
 
 Overall, I am a dedicated, adaptable, and enthusiastic computer science and engineering graduate ready to embark on a successful professional journey.
-
