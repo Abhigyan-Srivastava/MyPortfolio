@@ -41,8 +41,8 @@ params:
   profileMode:
     enabled: true
     title: "Abhigyan Srivastava"
-    subtitle: <strong>Bachelor's Degree Holder<strong>
-    imageUrl: "home/Profile.jpg"
+    subtitle: <strong>Network Engineer<strong>
+    imageUrl: "static/Profile.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
