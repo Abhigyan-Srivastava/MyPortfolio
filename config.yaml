@@ -42,7 +42,7 @@ params:
     enabled: true
     title: "Abhigyan Srivastava"
     subtitle: <strong>Network Engineer<strong>
-    imageUrl: "home/Profile.jpg"
+    imageUrl: "static/Profile.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
